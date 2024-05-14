@@ -13,7 +13,7 @@ se enfoca en replicar la apariencia visual de pinterest, ofreciendo una experien
 * **CSS3** para el diseño y el estilo, incluyendo _flexbox_ para un diseño responsivo ye fectos de _hover_
 
 ### Vista previa del proyecto 
-![Demo](imagenes/pinterest_Interfaz.png)
+![Demo](imagenes/clondepinterest_Interfaz.PNG)
 
 ### contacto
 si te gustaria colaborar en un proyecto escribeme por [LinkedIn](https://www.linkedin.com/in/anapaulinarivas/)  
